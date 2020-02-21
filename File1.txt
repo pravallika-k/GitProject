@@ -1,8 +1,12 @@
 hello
 good day
-
+made cganges
 Change : made changes
 
 Change : to fix the bug1
 
+
 Change : change made by team mate for payment gateway implementation
+
+Change: to fix bug2
+

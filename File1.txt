@@ -1,6 +1,8 @@
 hello
 good day
-
+made cganges
 Change : made changes
 
 Change : to fix the bug1
+
+Change: to fix bug2
